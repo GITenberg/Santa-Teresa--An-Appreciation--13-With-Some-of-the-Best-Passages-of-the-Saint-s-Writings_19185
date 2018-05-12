@@ -1,0 +1,38 @@
+_repo: Santa-Teresa--An-Appreciation--13-With-Some-of-the-Best-Passages-of-the-Saint-s-Writings_19185
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Whyte, Alexander
+    birthdate: 1836
+    deathdate: 1921
+    gutenberg_agent_id: '734'
+    url: http://www.gutenberg.org/2009/agents/734
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Whyte
+  - agent_name: Teresa, of Avila, Saint
+    aliases:
+    - Sanchez de Cepeda y Ahumada, Teresa
+    - Avila, Teresa of
+    - Ahumada, Teresa de Cepeda y, Saint
+    birthdate: 1515
+    deathdate: 1582
+    gutenberg_agent_id: '2651'
+    url: http://www.gutenberg.org/2009/agents/2651
+    wikipedia: http://en.wikipedia.org/wiki/Teresa_of_Avila
+description: ''
+gutenberg_issued: '2006-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Teresa, of Avila, Saint, 1515-1582'
+title: "Santa Teresa: An Appreciation\r\nWith Some of the Best Passages of the Saint's\
+  \ Writings"
+url: http://www.gutenberg.org/ebooks/19185
