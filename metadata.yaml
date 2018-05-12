@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2651
     wikipedia: http://en.wikipedia.org/wiki/Teresa_of_Avila
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19185#Santa-Teresa--An-Appreciation--13-With-Some-of-the-Best-Passages-of-the-Saint-s-Writings
 gutenberg_issued: '2006-09-05'
 gutenberg_type: Text
 identifiers:
